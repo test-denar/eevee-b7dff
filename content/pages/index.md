@@ -12,7 +12,7 @@ sections:
         style: primary
       - label: Projects
         url: '#'
-        style: link
+        style: secondary
         new_window: false
         no_follow: false
         type: action
