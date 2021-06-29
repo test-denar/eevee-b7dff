@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Elisabeth Vehlinng
-    subtitle: 'I''m a '
+    subtitle: I'm a CS grad student at USC
     actions:
       - label: Learn More
         url: /features
