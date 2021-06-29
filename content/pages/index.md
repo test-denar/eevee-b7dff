@@ -5,8 +5,7 @@ sections:
     title: Elisabeth Vehlinng
     subtitle: >-
       I'm a creative and multidisciplinary CS grad student at USC who's
-      creative, multidisciplinary and passionate about making tech accessible to
-      everyone.
+      passionate about making tech accessible to everyone.
     actions:
       - label: Learn More
         url: /features
