@@ -10,7 +10,7 @@ sections:
       - label: About me
         url: /features
         style: primary
-      - label: lorem-ipsum
+      - label: Projects
         url: '#'
         style: link
         new_window: false
