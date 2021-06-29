@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Elisabeth Vehlinng
+    title: Elisabeth Vehling
     subtitle: >-
       I'm a creative and multidisciplinary CS grad student at USC who's
       passionate about making tech accessible to everyone.
