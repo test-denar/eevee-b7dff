@@ -7,7 +7,7 @@ sections:
       I'm a creative and multidisciplinary CS grad student at USC who's
       passionate about making tech accessible to everyone.
     actions:
-      - label: Learn More
+      - label: About me
         url: /features
         style: primary
       - label: Contact Us
