@@ -29,7 +29,7 @@ export default class ContactSection extends React.Component {
                             <div className="form-select-wrap">
                                 <select name="subject" id="subject">
                                     <option value="">Please select</option>
-                                    <option value="Question">Business Inquiries</option>
+                                    <option value="Question">Questions</option>
                                     <option value="Project">Partnerships</option>
                                     <option value="Recruitment">Partnerships</option>
                                     <option value="Coffee Chat">Partnerships</option>
