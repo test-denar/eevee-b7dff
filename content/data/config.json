@@ -45,7 +45,7 @@
         "has_nav": true,
         "nav_links": [
             {
-                "label": "Contact Us",
+                "label": "Contact Me!",
                 "url": "/contact",
                 "style": "link"
             },
