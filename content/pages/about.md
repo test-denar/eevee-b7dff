@@ -27,7 +27,7 @@ sections:
       turpis in eu mi bibendum neque egestas.
     title: Test
   - type: cta_section
-    title: Resume
+    title: My Resume
     subtitle: Click below to access a PDF of my current resume
     actions:
       - label: View Resume
