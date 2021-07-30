@@ -53,7 +53,7 @@
             {
                 "label": "Medium",
                 "url": "/terms",
-                "style": "secondary"
+                "style": "link"
             },
             {
                 "label": "Dev",
