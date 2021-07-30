@@ -5,6 +5,7 @@ sections:
     title: Contact Me!
     align: center
   - type: contact_section
+    title: e
 seo:
   title: Contact
   description: This is the contact page
