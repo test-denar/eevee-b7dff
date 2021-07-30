@@ -16,7 +16,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-      - label: Contact Us
+      - label: Contact Me
         url: /contact
         style: secondary
     align: left
