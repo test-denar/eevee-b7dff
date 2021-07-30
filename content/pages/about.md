@@ -42,6 +42,7 @@ sections:
         image_position: left
         actions: []
         type: feature
+        image: /images/Profpic.jpg
     type: features_section
 seo:
   title: Who We Are
