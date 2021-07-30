@@ -4,6 +4,7 @@ sections:
   - type: hero_section
     title: About Me
     align: center
+    image_position: right
   - type: content_section
     content: >-
       Nisi porta lorem mollis aliquam ut porttitor. Pellentesque dignissim enim
