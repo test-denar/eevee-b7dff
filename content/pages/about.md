@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: About Me
     align: center
-    image_position: left
+    image_position: right
     image: /images/Profpic.jpg
     background:
       background_color: blue
