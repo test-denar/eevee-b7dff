@@ -28,7 +28,7 @@ sections:
     title: Test
   - type: cta_section
     title: My Work
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
+    subtitle: Check out my projects
     actions:
       - label: Contact Us
         url: /contact
