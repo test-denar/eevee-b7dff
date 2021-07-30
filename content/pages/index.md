@@ -8,7 +8,7 @@ sections:
       passionate about making tech accessible to everyone.
     actions:
       - label: About me
-        url: /features
+        url: /about
         style: primary
       - label: Contact Me
         url: /contact
