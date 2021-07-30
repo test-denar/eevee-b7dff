@@ -60,7 +60,7 @@
                 "label": "Dev",
                 "url": "https://dev.to/evehling",
                 "style": "link",
-                "new_window": false,
+                "new_window": true,
                 "no_follow": false,
                 "type": "action"
             },
