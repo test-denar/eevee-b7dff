@@ -53,7 +53,8 @@
             {
                 "label": "Medium",
                 "url": "https://medium.com/@evehling/hello-world-15cce965e01d",
-                "style": "link"
+                "style": "link",
+                "new_window": true
             },
             {
                 "label": "Dev",
