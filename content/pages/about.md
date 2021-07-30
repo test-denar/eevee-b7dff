@@ -11,7 +11,7 @@ sections:
       background_image_size: cover
       background_image_repeat: no-repeat
     has_background: true
-  - title: lorem-ipsum
+  - title: '  '
     subtitle: lorem-ipsum
     actions: []
     align: left
