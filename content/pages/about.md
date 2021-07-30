@@ -31,7 +31,7 @@ sections:
     subtitle: Click below to access a PDF of my current resume
     actions:
       - label: View Resume
-        url: /contact
+        url: '#'
         style: secondary
     has_background: true
     background_color: blue
