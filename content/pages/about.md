@@ -12,7 +12,7 @@ sections:
       background_image_repeat: no-repeat
     has_background: true
   - features:
-      - content: "I’m a current M.S. candidate studying computer science at the University of Southern California. Over the past few years, I’ve had some amazing experiences interning at \n\n[IBM](https://www.ibm.com/employment/extremeblue/)\_and\_[Automation Anywhere](https://www.automationanywhere.com/company/about-us)\_and am actively looking for full-time development roles for 2022!\n\nIn my free time, I enjoy nerding out over Star Wars, making art, coding, and playing volleyball.  Feel free to contact me on my site or add me on LinkedIn!\n"
+      - content: "I’m a current M.S. candidate studying computer science at the University of Southern California. Over the past few years, I’ve had some amazing experiences interning at [IBM](https://www.ibm.com/employment/extremeblue/)\_and\_[Automation Anywhere](https://www.automationanywhere.com/company/about-us)\_and am actively looking for full-time development roles for 2022!\n\nIn my free time, I enjoy nerding out over Star Wars, making art, coding, and playing volleyball.  Feel free to contact me on my site or add me on LinkedIn!\n"
         align: left
         image_alt: lorem-ipsum
         image_position: left
