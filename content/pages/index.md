@@ -82,7 +82,9 @@ sections:
     background_color: gray
 seo:
   title: Portfolio - Elisabeth Vehling
-  description: The preview of the Starter theme
+  description: >-
+    Personal website for my project portfolio, work experience, blog, and other
+    content.
   extra:
     - name: 'og:type'
       value: website
