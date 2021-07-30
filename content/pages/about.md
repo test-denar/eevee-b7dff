@@ -16,13 +16,7 @@ sections:
         align: left
         image_alt: Photo of blonde girl in navy suit standing in front of columns
         image_position: left
-        actions:
-          - label: lorem-ipsum
-            url: '#'
-            style: link
-            new_window: false
-            no_follow: false
-            type: action
+        actions: []
         type: feature
         image: /images/Profpic.jpg
     type: features_section
