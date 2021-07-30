@@ -25,7 +25,6 @@ sections:
             type: action
         type: feature
         image: /images/Profpic.jpg
-        title: Hello There!
     type: features_section
   - type: cta_section
     title: My Resume
