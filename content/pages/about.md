@@ -5,7 +5,6 @@ sections:
     title: About Me
     align: center
     image_position: right
-    image: /images/Profpic.jpg
     background:
       background_color: blue
       background_image_opacity: 0
