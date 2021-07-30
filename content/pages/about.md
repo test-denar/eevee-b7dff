@@ -33,6 +33,7 @@ sections:
       - label: View Resume
         url: '#'
         style: secondary
+        new_window: true
     has_background: true
     background_color: blue
 seo:
