@@ -27,7 +27,7 @@ sections:
       turpis in eu mi bibendum neque egestas.
     title: Test
   - type: cta_section
-    title: Join the Team
+    title: Check out my work
     subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
     actions:
       - label: Contact Us
