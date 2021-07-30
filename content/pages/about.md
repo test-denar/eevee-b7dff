@@ -39,7 +39,7 @@ sections:
           - dolor sit amet
         align: left
         image_alt: lorem-ipsum
-        image_position: left
+        image_position: right
         actions: []
         type: feature
         image: /images/Profpic.jpg
