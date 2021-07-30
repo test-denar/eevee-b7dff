@@ -30,7 +30,7 @@ sections:
     title: My Work
     subtitle: Check out my projects!
     actions:
-      - label: Contact Us
+      - label: Projects
         url: /contact
         style: secondary
     has_background: true
