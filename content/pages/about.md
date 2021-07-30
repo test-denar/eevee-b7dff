@@ -12,7 +12,7 @@ sections:
       background_image_size: cover
       background_image_repeat: no-repeat
   - type: content_section
-    content: "Hello there! I’m a current M.S. candidate studying computer science at the University of Southern California. I graduated in 2021 with my dual bachelor's degrees in Cognitive Science and Informatics from USC. I love everything about development. Over the past few years, I’ve had some amazing experiences interning at\_[IBM](https://www.ibm.com/products/aspera)\_and\_[Automation Anywhere](https://www.automationanywhere.com/company/about-us)\_and am actively looking for full-time development roles for 2022!\n\nIn my free time, I enjoy nerding out over Star Wars, making art, coding, and playing volleyball.  Feel free to contact me on my site or add me on LinkedIn!\n"
+    content: "Hello there! I’m a current M.S. candidate studying computer science at the University of Southern California. I graduated in 2021 with my dual bachelor's degrees in Cognitive Science and Informatics from USC. Over the past few years, I’ve had some amazing experiences interning at\_[IBM](https://www.ibm.com/products/aspera)\_and\_[Automation Anywhere](https://www.automationanywhere.com/company/about-us)\_and am actively looking for full-time development roles for 2022!\n\nIn my free time, I enjoy nerding out over Star Wars, making art, coding, and playing volleyball.  Feel free to contact me on my site or add me on LinkedIn!\n"
     title: Test
   - type: cta_section
     title: My Resume
