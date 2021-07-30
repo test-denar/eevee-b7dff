@@ -18,7 +18,7 @@ sections:
         type: action
       - label: Contact Me
         url: /contact
-        style: secondary
+        style: link
     align: left
     image: images/hero.svg
     image_alt: Hero placeholder image
