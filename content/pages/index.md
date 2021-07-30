@@ -81,7 +81,7 @@ sections:
     has_background: true
     background_color: gray
 seo:
-  title: Stackbit Starter Theme
+  title: Portfolio - Elisabeth Vehling
   description: The preview of the Starter theme
   extra:
     - name: 'og:type'
