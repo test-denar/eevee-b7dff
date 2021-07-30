@@ -47,7 +47,8 @@
             {
                 "label": "Contact Me!",
                 "url": "/contact",
-                "style": "primary"
+                "style": "primary",
+                "new_window": true
             },
             {
                 "label": "Privacy and Terms",
