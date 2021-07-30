@@ -58,7 +58,7 @@
             },
             {
                 "label": "Dev",
-                "url": "#",
+                "url": "https://dev.to/dashboard",
                 "style": "link",
                 "new_window": false,
                 "no_follow": false,
