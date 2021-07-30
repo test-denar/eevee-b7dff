@@ -28,7 +28,7 @@ sections:
     title: Test
   - type: cta_section
     title: Resume
-    subtitle: Click below to access a PDF of my current resume
+    subtitle: Click below to access a PDF of my current resume.
     actions:
       - label: Projects
         url: /contact
