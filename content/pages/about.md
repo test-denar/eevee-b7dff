@@ -24,12 +24,6 @@ sections:
         new_window: true
     has_background: true
     background_color: blue
-  - title: lorem-ipsum
-    subtitle: lorem-ipsum
-    actions: []
-    has_background: false
-    background_color: white
-    type: cta_section
 seo:
   title: Who We Are
   description: This is the about us page
