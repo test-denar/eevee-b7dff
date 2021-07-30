@@ -17,7 +17,7 @@ sections:
         image_alt: Photo of blonde girl in navy suit standing in front of columns
         image_position: left
         actions:
-          - label: lorem-ipsum
+          - label: Resume
             url: '#'
             style: link
             new_window: false
