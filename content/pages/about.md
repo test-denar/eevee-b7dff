@@ -23,8 +23,7 @@ sections:
         new_window: true
     has_background: true
     background_color: blue
-  - title: lorem-ipsum
-    features:
+  - features:
       - title: lorem-ipsum
         content: >-
           ## Lorem ipsum
