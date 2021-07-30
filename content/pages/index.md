@@ -10,12 +10,6 @@ sections:
       - label: About me
         url: /features
         style: primary
-      - label: Projects
-        url: '#'
-        style: secondary
-        new_window: false
-        no_follow: false
-        type: action
       - label: Contact Me
         url: /contact
         style: secondary
