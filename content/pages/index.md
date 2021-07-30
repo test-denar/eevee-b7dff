@@ -12,7 +12,7 @@ sections:
         style: secondary
       - label: Contact Me
         url: /contact
-        style: secondary
+        style: primary
     align: left
     image: images/hero.svg
     image_alt: Hero placeholder image
