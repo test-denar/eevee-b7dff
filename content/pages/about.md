@@ -16,7 +16,13 @@ sections:
         align: left
         image_alt: Photo of blonde girl in navy suit standing in front of columns
         image_position: left
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            new_window: false
+            no_follow: false
+            type: action
         type: feature
         image: /images/Profpic.jpg
         title: Hello There!
