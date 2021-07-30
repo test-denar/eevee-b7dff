@@ -92,7 +92,5 @@ seo:
     - name: 'og:title'
       value: Portfolio - Elisabeth Vehling
       keyName: property
-    - name: 'twitter:card'
-      value: summary_large_image
 layout: advanced
 ---
