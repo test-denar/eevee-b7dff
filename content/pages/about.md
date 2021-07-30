@@ -12,8 +12,7 @@ sections:
       background_image_repeat: no-repeat
     has_background: true
   - features:
-      - title: lorem-ipsum
-        content: >-
+      - content: >-
           ## Lorem ipsum
 
 
