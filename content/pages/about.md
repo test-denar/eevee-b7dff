@@ -5,6 +5,7 @@ sections:
     title: About Me
     align: center
     image_position: right
+    image: /images/1.png
   - type: content_section
     content: >-
       Nisi porta lorem mollis aliquam ut porttitor. Pellentesque dignissim enim
