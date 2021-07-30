@@ -9,7 +9,7 @@ sections:
     actions:
       - label: About me
         url: /about
-        style: primary
+        style: secondary
       - label: Contact Me
         url: /contact
         style: secondary
