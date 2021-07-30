@@ -27,7 +27,7 @@ sections:
       turpis in eu mi bibendum neque egestas.
     title: Test
   - type: cta_section
-    title: My Work
+    title: Resume
     subtitle: Check out my projects!
     actions:
       - label: Projects
