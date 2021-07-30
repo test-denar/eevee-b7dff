@@ -59,7 +59,7 @@
         "has_social": true,
         "social_links": [
             {
-                "label": "Twitter",
+                "label": "Medium",
                 "url": "https://twitter.com/",
                 "style": "primary",
                 "new_window": true
