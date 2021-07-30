@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: Elisabeth Vehling
     subtitle: >-
-      I'm a creative and multidisciplinary CS grad student at USC who's
-      passionate about making tech accessible to everyone.
+      I'm a creative, multidisciplinary CS grad student at USC who's passionate
+      about making tech accessible to everyone.
     actions:
       - label: About me
         url: /about
