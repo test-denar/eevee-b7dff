@@ -61,7 +61,7 @@
             {
                 "label": "Medium",
                 "url": "https://twitter.com/",
-                "style": "primary",
+                "style": "link",
                 "new_window": true
             },
             {
