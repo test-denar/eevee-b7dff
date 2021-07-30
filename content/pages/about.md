@@ -27,7 +27,7 @@ sections:
       turpis in eu mi bibendum neque egestas.
     title: Test
   - type: team_section
-    title: Our Team
+    title: Me
     team:
       - content/data/team/miles-tone.yaml
       - content/data/team/dianne-ameter.yaml
