@@ -15,7 +15,7 @@ sections:
     actions: []
     align: center
     image_alt: lorem-ipsum
-    image_position: left
+    image_position: right
     has_background: false
     background:
       background_color: white
