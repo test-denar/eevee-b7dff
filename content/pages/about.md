@@ -30,7 +30,7 @@ sections:
     title: Resume
     subtitle: Click below to access a PDF of my current resume
     actions:
-      - label: Projects
+      - label: View Resume
         url: /contact
         style: secondary
     has_background: true
