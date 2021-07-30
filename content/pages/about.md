@@ -20,7 +20,7 @@ sections:
           - label: Resume
             url: '#'
             style: secondary
-            new_window: false
+            new_window: true
             no_follow: false
             type: action
         type: feature
