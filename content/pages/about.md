@@ -3,7 +3,7 @@ title: About Me
 sections:
   - type: hero_section
     title: About Me
-    align: right
+    align: left
     image_position: right
     image: /images/Profpic.jpg
     background:
