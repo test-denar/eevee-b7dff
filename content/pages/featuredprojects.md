@@ -15,7 +15,7 @@ sections:
           optimally plan your time.
         align: left
         image: /images/maroon-pineapple.png
-        image_alt: Feature 1 placeholder image
+        image_alt: 'Logo with a circle composee of '
         image_position: right
         actions:
           - label: Github Repo
