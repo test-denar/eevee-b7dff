@@ -35,7 +35,7 @@ sections:
     type: features_section
   - type: cta_section
     title: All Sites
-    subtitle: Click below to access a PDF of my current resume
+    subtitle: Click one of the links to access my active websites and socials
     actions:
       - label: View Resume
         url: >-
