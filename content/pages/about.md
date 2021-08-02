@@ -42,7 +42,7 @@ sections:
           https://drive.google.com/file/d/1SBnFD7Cbyp_6019BXBY5OmjuBCV80A3f/view?usp=sharing
         style: secondary
         new_window: true
-      - label: lorem-ipsum
+      - label: LinkedIn
         url: '#'
         style: link
         new_window: false
