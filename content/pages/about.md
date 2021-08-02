@@ -34,7 +34,7 @@ sections:
         image: /images/Profpic.jpg
     type: features_section
   - type: cta_section
-    title: My Websites
+    title: Websites
     subtitle: Click one of the links to access my active websites and socials
     actions:
       - label: Resume
