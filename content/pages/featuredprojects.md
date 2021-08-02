@@ -45,7 +45,7 @@ seo:
       value: Features
       keyName: property
     - name: 'og:description'
-      value: This is the features page
+      value: These are my featured projects
       keyName: property
     - name: 'og:image'
       value: images/5.png
@@ -56,7 +56,7 @@ seo:
     - name: 'twitter:title'
       value: Features
     - name: 'twitter:description'
-      value: This is the features page
+      value: These are my featured projects
     - name: 'twitter:image'
       value: images/5.png
       relativeUrl: true
