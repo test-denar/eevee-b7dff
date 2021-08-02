@@ -32,6 +32,7 @@ sections:
           - label: Project Demo
             url: 'https://www.youtube.com/watch?v=FAJ6HNLSHcw'
             style: primary
+            new_window: true
       - title: Feature 3
         content: >-
           Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
