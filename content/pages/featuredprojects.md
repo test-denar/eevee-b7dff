@@ -18,7 +18,7 @@ sections:
         image_alt: Feature 1 placeholder image
         image_position: right
         actions:
-          - label: GitHub
+          - label: Project
             url: /about
             style: primary
       - title: Feature 2
