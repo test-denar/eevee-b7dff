@@ -37,7 +37,7 @@ sections:
     title: All Sites
     subtitle: Click one of the links to access my active websites and socials
     actions:
-      - label: View Resume
+      - label: Resume
         url: >-
           https://drive.google.com/file/d/1SBnFD7Cbyp_6019BXBY5OmjuBCV80A3f/view?usp=sharing
         style: secondary
