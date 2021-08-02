@@ -24,7 +24,7 @@ sections:
             new_window: true
             no_follow: false
             type: action
-          - label: lorem-ipsum
+          - label: LinkedIn
             url: '#'
             style: link
             new_window: false
