@@ -22,7 +22,7 @@ sections:
             url: 'https://github.com/evehling/crunch'
             style: primary
             new_window: true
-      - title: Feature 2
+      - title: Unbi
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
           diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
