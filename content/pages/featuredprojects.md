@@ -25,7 +25,7 @@ sections:
       - title: Unbi
         content: "**Unbi** *(you-n-bee)* is a computer-vision-based web service that identifies and redacts racially identifying information\_in police reports with the goal of reducing the effects of implicit bias during sentencing. **Unbi** was created by me and three other IBM interns for the 2020 IBM Intern hackathon.\n"
         align: left
-        image: /images/Screen Shot 2021-08-01 at 9.40.48 PM.png
+        image: /images/Screen Shot 2021-08-01 at 9.42.37 PM.png
         image_alt: Feature 2 placeholder image
         image_position: left
         actions:
