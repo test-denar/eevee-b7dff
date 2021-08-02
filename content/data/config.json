@@ -21,12 +21,6 @@
                 "style": "link"
             },
             {
-                "label": "Resume",
-                "url": "https://drive.google.com/file/d/1SBnFD7Cbyp_6019BXBY5OmjuBCV80A3f/view",
-                "style": "link",
-                "new_window": true
-            },
-            {
                 "label": "LinkedIn",
                 "url": "https://www.linkedin.com/in/elisabeth-vehling/",
                 "style": "secondary",
