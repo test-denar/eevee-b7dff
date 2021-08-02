@@ -42,6 +42,12 @@ sections:
           https://drive.google.com/file/d/1SBnFD7Cbyp_6019BXBY5OmjuBCV80A3f/view?usp=sharing
         style: secondary
         new_window: true
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        new_window: false
+        no_follow: false
+        type: action
     has_background: true
     background_color: blue
 seo:
