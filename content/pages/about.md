@@ -18,7 +18,8 @@ sections:
         image_position: left
         actions:
           - label: Resume
-            url: '#'
+            url: >-
+              https://drive.google.com/file/d/1SBnFD7Cbyp_6019BXBY5OmjuBCV80A3f/view?usp=sharing
             style: secondary
             new_window: true
             no_follow: false
