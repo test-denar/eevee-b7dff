@@ -64,7 +64,7 @@ sections:
     background_color: blue
 seo:
   title: About me
-  description: This is the about us page
+  description: This is the about me page
   extra:
     - name: 'og:type'
       value: website
