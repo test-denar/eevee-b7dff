@@ -45,7 +45,7 @@ sections:
       - label: LinkedIn
         url: 'https://www.linkedin.com/in/elisabeth-vehling/'
         style: secondary
-        new_window: false
+        new_window: true
         no_follow: false
         type: action
       - label: lorem-ipsum
