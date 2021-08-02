@@ -50,7 +50,7 @@ sections:
         type: action
       - label: Medium
         url: 'https://medium.com/@evehling'
-        style: link
+        style: secondary
         new_window: false
         no_follow: false
         type: action
