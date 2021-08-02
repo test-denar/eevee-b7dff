@@ -48,7 +48,7 @@ sections:
         new_window: true
         no_follow: false
         type: action
-      - label: GitHub
+      - label: Medium
         url: '#'
         style: link
         new_window: false
