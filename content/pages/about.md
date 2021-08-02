@@ -56,7 +56,7 @@ sections:
         type: action
       - label: Dev
         url: 'https://dev.to/evehling'
-        style: link
+        style: secondary
         new_window: false
         no_follow: false
         type: action
