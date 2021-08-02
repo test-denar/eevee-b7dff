@@ -3,7 +3,7 @@ title: Featured Projects
 sections:
   - type: hero_section
     title: Featured Projects
-    subtitle: Some of my favorite projects I've worked on over the years
+    subtitle: Some of my favorite projects I've worked on recently
     align: center
   - type: features_section
     features:
