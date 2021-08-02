@@ -30,7 +30,7 @@ sections:
         image_position: left
         actions:
           - label: Project Demo
-            url: /style-guide
+            url: 'https://www.youtube.com/watch?v=FAJ6HNLSHcw'
             style: primary
       - title: Feature 3
         content: >-
