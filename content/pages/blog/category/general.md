@@ -1,5 +1,5 @@
 ---
-title: General
+title: Blog
 sections:
   - type: hero_section
     title: All Posts In General
