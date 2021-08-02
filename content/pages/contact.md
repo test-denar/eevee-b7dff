@@ -1,5 +1,5 @@
 ---
-title: Contact Me!
+title: Contact Me
 sections:
   - type: hero_section
     title: Contact Me!
