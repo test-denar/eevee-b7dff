@@ -34,7 +34,7 @@ sections:
         image: /images/Profpic.jpg
     type: features_section
   - type: cta_section
-    title: My Resume
+    title: All Sites
     subtitle: Click below to access a PDF of my current resume
     actions:
       - label: View Resume
