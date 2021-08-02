@@ -55,7 +55,7 @@ sections:
         no_follow: false
         type: action
       - label: Dev
-        url: '#'
+        url: 'https://dev.to/evehling'
         style: link
         new_window: false
         no_follow: false
