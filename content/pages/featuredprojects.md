@@ -5,7 +5,6 @@ sections:
     title: Featured Projects
     subtitle: Some of my favorite projects I've worked on recently
     align: center
-    image: /images/Screen Shot 2021-08-01 at 10.09.01 PM.png
   - type: features_section
     features:
       - title: Crunch
