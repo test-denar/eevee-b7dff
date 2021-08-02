@@ -43,7 +43,7 @@ sections:
         style: secondary
         new_window: true
       - label: LinkedIn
-        url: '#'
+        url: 'https://www.linkedin.com/in/elisabeth-vehling/'
         style: link
         new_window: false
         no_follow: false
