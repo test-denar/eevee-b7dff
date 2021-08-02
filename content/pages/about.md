@@ -54,6 +54,12 @@ sections:
         new_window: true
         no_follow: false
         type: action
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        new_window: false
+        no_follow: false
+        type: action
     has_background: true
     background_color: blue
 seo:
