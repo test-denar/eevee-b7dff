@@ -49,7 +49,7 @@ sections:
         no_follow: false
         type: action
       - label: Medium
-        url: '#'
+        url: 'https://medium.com/@evehling'
         style: link
         new_window: false
         no_follow: false
