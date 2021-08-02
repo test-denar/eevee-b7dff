@@ -23,7 +23,8 @@
             {
                 "label": "Resume",
                 "url": "#",
-                "style": "link"
+                "style": "link",
+                "new_window": true
             },
             {
                 "label": "LinkedIn",
