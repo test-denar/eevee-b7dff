@@ -21,6 +21,7 @@ sections:
           - label: Github Repo
             url: 'https://github.com/evehling/crunch'
             style: primary
+            new_window: true
       - title: Feature 2
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
