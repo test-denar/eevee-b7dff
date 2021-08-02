@@ -35,8 +35,8 @@ sections:
             style: primary
             new_window: true
 seo:
-  title: Features
-  description: This is the features page
+  title: Featured Projects
+  description: These are my featured projects
   extra:
     - name: 'og:type'
       value: website
