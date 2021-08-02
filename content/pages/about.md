@@ -24,7 +24,7 @@ sections:
             new_window: true
             no_follow: false
             type: action
-          - label: Featured Projects
+          - label: Projects
             url: /featuredprojects
             style: primary
             new_window: true
