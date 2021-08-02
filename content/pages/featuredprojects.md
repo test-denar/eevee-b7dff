@@ -8,10 +8,11 @@ sections:
   - type: features_section
     features:
       - title: Crunch
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Crunch is an intelligent iOS application designed to make scheduling
+          your week easier. Using a mashup of cognitive load theory and computer
+          science allocation techniques, Crunch helps you dynamically and
+          optimally plan your time.
         align: left
         image: images/feature.svg
         image_alt: Feature 1 placeholder image
