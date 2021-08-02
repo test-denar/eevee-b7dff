@@ -70,10 +70,10 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Who We Are
+      value: About me
       keyName: property
     - name: 'og:description'
-      value: This is the about us page
+      value: This is the about me page
       keyName: property
     - name: 'og:image'
       value: images/1.png
@@ -82,9 +82,9 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Who We Are
+      value: About me
     - name: 'twitter:description'
-      value: This is the about us page
+      value: This is the about me page
     - name: 'twitter:image'
       value: images/1.png
       relativeUrl: true
