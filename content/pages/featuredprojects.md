@@ -14,7 +14,7 @@ sections:
           science allocation techniques, Crunch helps you dynamically and
           optimally plan your time.
         align: left
-        image: images/feature.svg
+        image: /images/maroon-pineapple.png
         image_alt: Feature 1 placeholder image
         image_position: right
         actions:
