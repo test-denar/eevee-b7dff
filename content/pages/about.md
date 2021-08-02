@@ -25,7 +25,7 @@ sections:
             no_follow: false
             type: action
           - label: Featured Projects
-            url: 'https://www.linkedin.com/in/elisabeth-vehling/'
+            url: /featuredprojects
             style: primary
             new_window: true
             no_follow: false
