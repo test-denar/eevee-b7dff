@@ -19,7 +19,7 @@ sections:
         image_position: right
         actions:
           - label: Github Repo
-            url: /about
+            url: 'https://github.com/evehling/crunch'
             style: primary
       - title: Feature 2
         content: >-
