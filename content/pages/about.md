@@ -25,7 +25,7 @@ sections:
             no_follow: false
             type: action
           - label: LinkedIn
-            url: '#'
+            url: 'https://www.linkedin.com/in/elisabeth-vehling/'
             style: link
             new_window: false
             no_follow: false
