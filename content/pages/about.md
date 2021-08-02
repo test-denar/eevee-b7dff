@@ -31,7 +31,8 @@ sections:
     subtitle: Click below to access a PDF of my current resume
     actions:
       - label: View Resume
-        url: '#'
+        url: >-
+          https://drive.google.com/file/d/1SBnFD7Cbyp_6019BXBY5OmjuBCV80A3f/view?usp=sharing
         style: secondary
         new_window: true
     has_background: true
