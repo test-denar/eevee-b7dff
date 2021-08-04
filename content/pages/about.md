@@ -30,12 +30,6 @@ sections:
             new_window: true
             no_follow: false
             type: action
-          - label: lorem-ipsum
-            url: '#'
-            style: link
-            new_window: false
-            no_follow: false
-            type: action
         type: feature
         image: /images/Profpic.jpg
     type: features_section
