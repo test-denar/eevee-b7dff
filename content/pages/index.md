@@ -23,6 +23,10 @@ sections:
       background_image_opacity: 40
       background_image_size: cover
       background_image_repeat: repeat
+  - title: lorem-ipsum
+    show_recent: false
+    recent_count: 0
+    type: blog_feed_section
 seo:
   title: Portfolio - Elisabeth Vehling
   description: >-
