@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Hello there!
+    title: Hello there
     subtitle: >-
       I'm a creative, multidisciplinary CS grad student at USC who's passionate
       about making tech accessible to everyone.
